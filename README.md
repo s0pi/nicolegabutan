@@ -14,7 +14,7 @@ I am an Information Technology student at Xavier University – Ateneo de Cagaya
 - **Frameworks:** Django, Flask, MERN
 
 ## :) Fun Fact
-I,m scared og ghosts 
+I'm scared og ghosts 
 
 ## Contacts
 - **Email:** 20230028445@my.xu.edu.ph
